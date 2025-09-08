@@ -72,7 +72,7 @@ The vaccination analysis highlights differing adoption and distribution trends a
 
 ### 🚀 How to Run the Project
 
-1.  **Clone the Repository:** `git clone https://github.com/software-development-course-2025/covid-19-global-tracker.git`
+1.  **Clone the Repository:** `git clone https://github.com/software-development-course-2025/covid-19-global-tracker`
 2.  **Download the Dataset:** Download the `compact.csv` from the link above and place it in the same folder.
 3.  **Install Dependencies:** `pip install pandas matplotlib plotly jupyter`
 4.  **Run the Notebook:** `jupyter notebook covid_analysis.ipynb`
@@ -81,13 +81,14 @@ The vaccination analysis highlights differing adoption and distribution trends a
 
 ### 📝 Pertinent Observations
 
-- This project was conducted as part of the Python module in a broader Software Development curriculum. 
-- The data is based on public records and may be subject to updates. 
-- The analysis reflects the data available up to the last download date.
+  - This project was conducted as part of the Python module in a broader Software Development curriculum.
+  - The data is based on public records and may be subject to updates.
+  - The analysis reflects the data available up to the last download date.
 
 ---
 
 ### License
 
 This project is licensed under the MIT License.  
-For more details, see the [LICENSE](.LICENSE) file.
+For more details, see the [LICENSE](LICENSE) file.
+
