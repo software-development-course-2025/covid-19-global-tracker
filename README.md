@@ -99,4 +99,3 @@ For more details, see the [LICENSE](LICENSE) file.
 ### Acknowledgments
 
 > This project was a challenging and rewarding learning journey. I would like to express my sincere gratitude to the team that guided me, providing the necessary resources and support. The contributions of the open-source community, with tools such as `pandas`, `matplotlib`, and `plotly`, were fundamental to the completion of this work.
-
