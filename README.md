@@ -2,6 +2,7 @@
 
 ### Author
 - **Name:** Augusto Mate
+- **Email:** mate.augusto.mz@gmail.com
 - **GitHub:** https://github.com/Augusto047
 
 ---
@@ -12,18 +13,18 @@ This project is an in-depth data analysis of global COVID-19 trends. The goal wa
 
 ---
 
-### 📋 Table of Contents
+### Table of Contents
 - [Project Objectives](#project-objectives)
 - [Files and Data Source](#files-and-data-source)
 - [Tools and Libraries](#tools-and-libraries)
 - [Conclusions and Insights](#conclusions-and-insights)
 - [How to Run the Project](#how-to-run-the-project)
-- [Pertinent Observations](#pertinent-observations)
+- [Project Context and Considerations](#project-context-and-considerations)
 - [License](#license)
 
 ---
 
-### 🎯 Project Objectives
+### Project Objectives
 
 - **Data Processing:** Import and clean a real-world COVID-19 dataset.
 - **Exploratory Data Analysis (EDA):** Analyze time-series trends and compare key metrics across countries.
@@ -32,7 +33,7 @@ This project is an in-depth data analysis of global COVID-19 trends. The goal wa
 
 ---
 
-### 📂 Files and Data Source
+### Files and Data Source
 
 Due to GitHub's file size limit, the `compact.csv` dataset (~150 MB) could not be uploaded to this repository. The file is available for download from its original source:
 
@@ -44,7 +45,7 @@ To run the notebook successfully, please download this file and place it in the 
 
 ---
 
-### 🛠️ Tools and Libraries
+### Tools and Libraries
 
 -   Python
 -   `pandas` (for data manipulation and analysis)
@@ -54,7 +55,7 @@ To run the notebook successfully, please download this file and place it in the 
 
 ---
 
-### 🧠 Conclusions and Insights
+### Conclusions and Insights
 
 #### Overview of Cases and Deaths
 
@@ -70,7 +71,7 @@ The vaccination analysis highlights differing adoption and distribution trends a
 
 ---
 
-### 🚀 How to Run the Project
+### How to Run the Project
 
 1.  **Clone the Repository:** `git clone https://github.com/software-development-course-2025/covid-19-global-tracker`
 2.  **Download the Dataset:** Download the `compact.csv` from the link above and place it in the same folder.
@@ -79,11 +80,11 @@ The vaccination analysis highlights differing adoption and distribution trends a
 
 ---
 
-### 📝 Pertinent Observations
+### Project Context and Considerations
 
-  - This project was conducted as part of the Python module in a broader Software Development curriculum.
-  - The data is based on public records and may be subject to updates.
-  - The analysis reflects the data available up to the last download date.
+* This project was conducted as part of the Python module in a broader Software Development curriculum. 
+* The data is based on public records and may be subject to updates. 
+* The analysis reflects the data available up to the last download date.
 
 ---
 
