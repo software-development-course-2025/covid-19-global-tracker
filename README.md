@@ -21,6 +21,7 @@ This project is an in-depth data analysis of global COVID-19 trends. The goal wa
 - [How to Run the Project](#how-to-run-the-project)
 - [Project Context and Considerations](#project-context-and-considerations)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -92,4 +93,10 @@ The vaccination analysis highlights differing adoption and distribution trends a
 
 This project is licensed under the MIT License.  
 For more details, see the [LICENSE](LICENSE) file.
+
+---
+
+### Acknowledgments
+
+> This project was a challenging and rewarding learning journey. I would like to express my sincere gratitude to the team that guided me, providing the necessary resources and support. The contributions of the open-source community, with tools such as `pandas`, `matplotlib`, and `plotly`, were fundamental to the completion of this work.
 
